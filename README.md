@@ -4,6 +4,10 @@ A backend API that classifies submitted text for AI vs. human attribution, score
 
 Built for creative sharing platforms that need attribution context without pretending detection is perfect.
 
+## Demo Video
+
+[Watch the demo](https://screenrec.com/share/Fsl4BwNRDS) — walkthrough of submit, classification labels, appeals, and audit log (`GET /log`).
+
 ---
 
 ## Quick Start
